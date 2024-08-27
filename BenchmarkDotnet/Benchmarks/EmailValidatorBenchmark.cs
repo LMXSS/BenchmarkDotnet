@@ -1,8 +1,8 @@
-﻿using BenchmarkDotnet.Validators;
+﻿using BenchmarkDotnetRegex.Validators;
 using BenchmarkDotNet.Attributes;
 
 
-namespace BenchmarkDotnet.Benchmarks;
+namespace BenchmarkDotnetRegex.Benchmarks;
 
 public class EmailValidatorBenchmark
 {

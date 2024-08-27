@@ -1,4 +1,4 @@
-﻿namespace BenchmarkDotnet.Interfaces;
+﻿namespace BenchmarkDotnetRegex.Interfaces;
 
 public interface IEmailValidator
 {

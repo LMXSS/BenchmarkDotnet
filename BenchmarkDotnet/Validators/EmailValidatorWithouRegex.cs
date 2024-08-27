@@ -1,6 +1,6 @@
-﻿using BenchmarkDotnet.Interfaces;
+﻿using BenchmarkDotnetRegex.Interfaces;
 
-namespace BenchmarkDotnet.Validators;
+namespace BenchmarkDotnetRegex.Validators;
 
 public class EmailValidatorWithouRegex : IEmailValidator
 {

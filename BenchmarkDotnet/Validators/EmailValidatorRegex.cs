@@ -1,7 +1,7 @@
-﻿using BenchmarkDotnet.Interfaces;
+﻿using BenchmarkDotnetRegex.Interfaces;
 using System.Text.RegularExpressions;
 
-namespace BenchmarkDotnet.Validators;
+namespace BenchmarkDotnetRegex.Validators;
 
 public class EmailValidatorRegex : IEmailValidator
 {
